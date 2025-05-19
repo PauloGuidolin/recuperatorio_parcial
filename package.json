@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/santtiojeda8/parcial1Gonzales.git"
+    "url": "git+https://github.com/PauloGuidolin/recuperatorio_parcial.git"
   },
   "keywords": [],
   "author": "Paulo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/santtiojeda8/parcial1Gonzales/issues"
+    "url": "https://github.com/PauloGuidolin/recuperatorio_parcial/issues"
   },
-  "homepage": "https://github.com/santtiojeda8/parcial1Gonzales#readme",
+  "homepage": "https://github.com/PauloGuidolin/recuperatorio_parcial#readme",
   "dependencies": {
     "body-parser": "^2.2.0",
     "dotenv": "^16.5.0",
